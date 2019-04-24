@@ -1,0 +1,12 @@
+C:\VS\repos\GoogleHarita\GoogleHarita\bin\Debug\GoogleHarita.exe.config
+C:\VS\repos\GoogleHarita\GoogleHarita\bin\Debug\GoogleHarita.exe
+C:\VS\repos\GoogleHarita\GoogleHarita\bin\Debug\GoogleHarita.pdb
+C:\VS\repos\GoogleHarita\GoogleHarita\bin\Debug\GoogleHarita.xml
+C:\VS\repos\GoogleHarita\GoogleHarita\obj\Debug\GoogleHarita.vbprojAssemblyReference.cache
+C:\VS\repos\GoogleHarita\GoogleHarita\obj\Debug\GoogleHarita.HaritaForm1.resources
+C:\VS\repos\GoogleHarita\GoogleHarita\obj\Debug\GoogleHarita.Resources.resources
+C:\VS\repos\GoogleHarita\GoogleHarita\obj\Debug\GoogleHarita.vbproj.GenerateResource.cache
+C:\VS\repos\GoogleHarita\GoogleHarita\obj\Debug\GoogleHarita.vbproj.CoreCompileInputs.cache
+C:\VS\repos\GoogleHarita\GoogleHarita\obj\Debug\GoogleHarita.exe
+C:\VS\repos\GoogleHarita\GoogleHarita\obj\Debug\GoogleHarita.xml
+C:\VS\repos\GoogleHarita\GoogleHarita\obj\Debug\GoogleHarita.pdb
