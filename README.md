@@ -20,4 +20,5 @@ WINXPSP3 RUNASADMIN
 
 Burada, Windows XP SP3'te projemiz Windows XP SP3'te uyumluluk taraması ve zamanını “Yönetici olarak çalıştır”
 
-Eveeeeet. Yöntemimiz bu şekilde dostlar. İmalatı işlemi manuel olarak dalıdır. Elbette ki C keskin kodları ile de yapıyor. Ayrıca exe dosyası üzerinde sağ tarafta.
+Evet. Yöntemimiz bu şekilde dostlar. İmalatı işlemi manuel olarak dalıdır. Elbette ki C keskin kodları ile de yapıyor. Ayrıca exe dosyası üzerinde sağ tarafta.
+kaynak : https://mustafabukulmez.com/2018/05/03/c-sharp-uygulama-icerisinden-uyumluluk-modu-ayarlama/
